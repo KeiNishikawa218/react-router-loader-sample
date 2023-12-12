@@ -1,1 +1,3 @@
-# react-router-loader-sample
+# 起動方法
+
+`yarn dev`
